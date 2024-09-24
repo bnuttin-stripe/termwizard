@@ -1,0 +1,41 @@
+POS Platform,Offline Mode,Screen,Connectivity,Hide,Reader - mPOS,Reader - sPOS,Reader - Tap-to-pay,Reader - AoD,Integration - SDI,Integration - JavaScript,Integration - iOS,Integration - Android,Integration - .NET,Integration - Java,Connectivity - Ethernet,Connectivity - USB,Connectivity - WiFi,Connectivity - Cellular,Connectivity - Bluetooth
+iPhone,Yes,Yes,Wired,Silly,,,,,,,,,,,,,,,
+iPhone,Yes,Yes,Wireless,Silly,,,,,,,,,,,,,,,
+iPhone,Yes,No,Wired,Silly,,,,,,,,,,,,,,,
+iPhone,Yes,No,Wireless,Silly,,,,,,,,,,,,,,,
+iPhone,No,Yes,Wired,Silly,,,,,,,,,,,,,,,
+iPhone,No,Yes,Wireless,Silly,,,,,,,,,,,,,,,
+iPhone,No,No,Wired,Silly,,,,,,,,,,,,,,,
+iPhone,No,No,Wireless,Silly,,,,,,,,,,,,,,,
+iPad,Yes,Yes,Wired,,,x,,,,,x,,,,x,,,,
+iPad,Yes,Yes,Wireless,,,x,,,,,x,,,,,,x,,
+iPad,Yes,No,Wired,,x,,,,,,x,,,,,beta,,,
+iPad,Yes,No,Wireless,,x,,,,,,x,,,,,,,,x
+iPad,No,Yes,Wired,,,x,,,x,,x,,,,x,,,,
+iPad,No,Yes,Wireless,,,x,,,x,,x,,,,,,x,,
+iPad,No,No,Wired,,x,,,,,,x,,,,,beta,,,
+iPad,No,No,Wireless,,x,,,,,,x,,,,,,,,x
+Android,Yes,Yes,Wired,,,x,,,,,,x,,,x,,,,
+Android,Yes,Yes,Wireless,,,x,,,,,,x,,,,,x,,
+Android,Yes,No,Wired,,x,,,,,,,x,,,,x,,,
+Android,Yes,No,Wireless,,x,,,,,,,x,,,,,,,x
+Android,No,Yes,Wired,,,x,,,x,,,x,,,x,,,,
+Android,No,Yes,Wireless,,,x,,,x,,,x,,,,,x,,
+Android,No,No,Wired,,x,,,,,,,x,,,,x,,,
+Android,No,No,Wireless,,x,,,,,,,x,,,,,,,x
+Windows App,Yes,Yes,Wired,,,x,,,,x,,,beta,beta,x,,,,
+Windows App,Yes,Yes,Wireless,,,x,,,,x,,,beta,beta,,,x,,
+Windows App,Yes,No,Wired,Internal Only,x,,,,,,,,beta,beta,,x,,,
+Windows App,Yes,No,Wireless,Internal Only,x,,,,,,,,beta,beta,,,,,x
+Windows App,No,Yes,Wired,Internal Only,,x,,,x,x,,,beta,beta,,,,,
+Windows App,No,Yes,Wireless,Internal Only,,x,,,x,x,,,beta,beta,,,,,
+Windows App,No,No,Wired,Internal Only,x,,,,,,,,beta,beta,,x,,,
+Windows App,No,No,Wireless,internal Only,x,,,,,,,,beta,beta,,,,,x
+Web-based,Yes,Yes,Wired,N/A,,x,,,,,,,,,,,,,
+Web-based,Yes,Yes,Wireless,N/A,,x,,,,,,,,,,,,,
+Web-based,Yes,No,Wired,N/A,x,,,,,,,,,,,,,,
+Web-based,Yes,No,Wireless,N/A,x,,,,,,,,,,,,,,
+Web-based,No,Yes,Wired,,,x,,,x,x,,,,,x,,,,
+Web-based,No,Yes,Wireless,,,x,,,x,x,,,,,,,x,,
+Web-based,No,No,Wired,N/A,x,,,,,,,,,,,,,,
+Web-based,No,No,Wireless,N/A,x,,,,,,,,,,,,,,
